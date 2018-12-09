@@ -1,0 +1,7 @@
+#
+#Sun Dec 09 13:24:41 EET 2018
+com.akoca.mvc.entity.Student=javax.persistence.Entity,javax.persistence.Table
+com.akoca.mvc.entity.InstructorDetails=javax.persistence.Entity,javax.persistence.Table
+com.akoca.mvc.entity.Course=javax.persistence.Entity,javax.persistence.Table
+com.akoca.mvc.entity.Instructor=javax.persistence.Entity,javax.persistence.Table
+com.akoca.mvc.entity.Review=javax.persistence.Entity,javax.persistence.Table

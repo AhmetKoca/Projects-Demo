@@ -1,0 +1,10 @@
+#
+#Sun Dec 09 13:26:20 EET 2018
+com.akoca.dao.MembershipDAO=org.springframework.stereotype.Component
+com.akoca.aspect.CloudLoggingAspect=org.springframework.stereotype.Component
+com.akoca.config.DemoConfig=org.springframework.stereotype.Component
+com.akoca.dao.AccountDao=org.springframework.stereotype.Component
+com.akoca.aspect.APIAnalyticsAspect=org.springframework.stereotype.Component
+com.akoca.service.TrafficFortuneService=org.springframework.stereotype.Component
+com.akoca.Account=org.springframework.stereotype.Component
+com.akoca.aspect.MyLoggingAspect=org.springframework.stereotype.Component

@@ -1,0 +1,8 @@
+#
+#Sun Dec 09 13:14:46 EET 2018
+com.akoca.mvc.controller.TestDBServlet=javax.servlet.annotation.WebServlet
+com.akoca.mvc.dao.CustomerDAOImpl=org.springframework.stereotype.Component
+com.akoca.mvc.controller.CustomerController=org.springframework.stereotype.Component
+com.akoca.mvc.service.CustomerServiceImpl=org.springframework.stereotype.Component
+com.akoca.mvc.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+com.akoca.mvc.aspect.CRMLoggingAspect=org.springframework.stereotype.Component

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="conf:hibernate.cfg.xml/Hibernate" uuid="a9dad3dd-f0ec-4dfc-a38c-ef5b50eca0fe">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="MYSQL" exact-version="0.0" />
+      <first-sync>true</first-sync>
+      <user-name>akocaHibernate</user-name>
+    </data-source>
+  </component>
+</project>
